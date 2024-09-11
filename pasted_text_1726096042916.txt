@@ -1,0 +1,38 @@
+ou can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:5000
+
+2024-09-11 23:06:51,364 - INFO - Starting Streamlit app
+2024-09-11 23:06:51,457 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/env_util.py', wd=991, mask=IN_OPEN, cookie=0, name='env_util.py'>
+2024-09-11 23:06:51,458 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/delta_generator.py', wd=991, mask=IN_OPEN, cookie=0, name='delta_generator.py'>
+2024-09-11 23:06:51,458 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/elements/heading.py', wd=1531, mask=IN_OPEN, cookie=0, name='heading.py'>
+2024-09-11 23:06:51,458 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/runtime/metrics_util.py', wd=1536, mask=IN_OPEN, cookie=0, name='metrics_util.py'>
+2024-09-11 23:06:51,459 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/main.py', wd=1, mask=IN_OPEN, cookie=0, name='main.py'>
+2024-09-11 23:06:51,459 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py', wd=1562, mask=IN_OPEN, cookie=0, name='script_runner.py'>
+2024-09-11 23:06:51,468 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/exec_code.py', wd=1562, mask=IN_OPEN, cookie=0, name='exec_code.py'>
+2024-09-11 23:06:51,630 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/static/static/js/9656.8c935274.chunk.js', wd=1574, mask=IN_OPEN, cookie=0, name='9656.8c935274.chunk.js'>
+2024-09-11 23:06:51,630 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.replit', wd=1, mask=IN_OPEN, cookie=0, name='.replit'>
+2024-09-11 23:06:51,637 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/static/static/js/1792.d126bbd9.chunk.js', wd=1574, mask=IN_OPEN, cookie=0, name='1792.d126bbd9.chunk.js'>
+2024-09-11 23:06:51,638 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/static/static/js/8691.ee55fefc.chunk.js', wd=1574, mask=IN_OPEN, cookie=0, name='8691.ee55fefc.chunk.js'>
+2024-09-11 23:06:58,611 - INFO - Starting Streamlit app
+2024-09-11 23:06:58,703 - INFO - Starting Streamlit app
+2024-09-11 23:06:58,705 - INFO - Added new account: bc1ppynz755xpune6n2vg5q2hzwt7ldnhnka7hsvad35r6n2ldplcwlqjapnnl
+2024-09-11 23:06:58,705 - INFO - Fetching account data
+2024-09-11 23:06:58,705 - INFO - Updating data for 1 accounts
+2024-09-11 23:06:58,705 - INFO - Fetching data for address: bc1ppynz755xpune6n2vg5q2hzwt7ldnhnka7hsvad35r6n2ldplcwlqjapnnl
+2024-09-11 23:06:58,708 - DEBUG - Starting new HTTPS connection (1): explorer.unisat.io:443
+2024-09-11 23:06:59,672 - DEBUG - https://explorer.unisat.io:443 "GET /fractal-mainnet/api/address/summary?address=bc1ppynz755xpune6n2vg5q2hzwt7ldnhnka7hsvad35r6n2ldplcwlqjapnnl HTTP/11" 200 None
+2024-09-11 23:06:59,673 - DEBUG - Raw API response for address bc1ppynz755xpune6n2vg5q2hzwt7ldnhnka7hsvad35r6n2ldplcwlqjapnnl: {'code': 0, 'data': {'balance': 87760555, 'available': 87760555, 'unavailable': 0, 'utxo_count': 1, 'transaction': 1461, 'assets': {'runeList': [], 'BRC20List': [], 'total_runes': 0, 'total_brc20': 0, 'total_inscriptions': 0}, 'activity': {'runeList': [], 'runes': 0, 'brc20': 0, 'inscriptions': 0}}}
+2024-09-11 23:06:59,673 - ERROR - 'balance' field not found in API response for address bc1ppynz755xpune6n2vg5q2hzwt7ldnhnka7hsvad35r6n2ldplcwlqjapnnl
+2024-09-11 23:06:59,674 - INFO - Updated data: []
+2024-09-11 23:06:59,674 - INFO - Fetched account data: []
+2024-09-11 23:07:00,749 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.pythonlibs/lib/python3.11/site-packages/streamlit/static/static/media/SourceCodePro-Regular.84b900b88d09398d86b0.woff2', wd=1575, mask=IN_OPEN, cookie=0, name='SourceCodePro-Regular.84b900b88d09398d86b0.woff2'>
+2024-09-11 23:07:04,585 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-09-11 23:07:04,585 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.streamlit', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-09-11 23:07:04,585 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.git/info/exclude', wd=876, mask=IN_OPEN, cookie=0, name='exclude'>
+2024-09-11 23:07:04,586 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.streamlit', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name='.streamlit'>
+2024-09-11 23:07:04,586 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.streamlit', wd=5, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-09-11 23:07:16,493 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
+2024-09-11 23:07:16,494 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.git/info/exclude', wd=876, mask=IN_OPEN, cookie=0, name='exclude'>
+2024-09-11 23:07:16,494 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.streamlit', wd=1, mask=IN_ISDIR|IN_OPEN, cookie=0, name='.streamlit'>
+2024-09-11 23:07:16,494 - DEBUG - in-event <InotifyEvent: src_path=b'/home/runner/BalanceDashboard/.streamlit', wd=5, mask=IN_ISDIR|IN_OPEN, cookie=0, name=''>
